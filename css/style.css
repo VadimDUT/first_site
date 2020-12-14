@@ -114,7 +114,7 @@
         .top__link {
             line-height: 24px;
             display: inline-block;
-            font-family: 600;
+            font-weight: 600;
             color: #ff9900;
             padding-left: 25px;
             position: relative;
