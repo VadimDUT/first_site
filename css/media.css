@@ -121,6 +121,9 @@
         text-align: center;
         padding: 30px;
     }
+    .user-nav__link {
+        line-height: 60px;
+    }
     .menu__list-item+.menu__list-item {
         margin-left: 0;
     }
@@ -153,5 +156,8 @@
     }
     .footer__inner {
         justify-content: space-around;
+    }
+    .tools__link {
+        font-size: 85%;
     }
 }
